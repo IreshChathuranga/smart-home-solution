@@ -336,7 +336,7 @@ export default function Home() {
                 margin: "0 auto 1.5rem auto",
                 lineHeight: "1.1"
               }}>
-                Intelligent Spaces.<br />
+                Modern Inovatex<br />
                 <span className="gradient-brand-text">Bespoke Engineering.</span>
               </h1>
 
